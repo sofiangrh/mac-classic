@@ -1,2 +1,2 @@
 # mac-classic
-Mac classic gtk 2.x theme
+Mac classic gtk 2.x theme.
